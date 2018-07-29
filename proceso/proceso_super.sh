@@ -12,14 +12,68 @@ queries=/home/callcenter/interfaz/proceso/queries
 procesar=/home/callcenter/interfaz/procesar
 errorMensaje=/home/callcenter/interfaz/proceso/archivos/mensajeErrorDirectorioVacio.txt
 ejecutarQuery=/home/callcenter/interfaz/proceso/run_n_log_query.sh
+queryFechaBaseCount=$(cat $queries/fechaBaseCount.sql)
+queryCierreBase=$(cat $queries/fechaCierreBase.sql)
+fechaHoy=$(date +%Y-%m-%d)
+resultadoFlagNecesarioParaEjecutarCierre=$(mysql -se "$queryCierreBase $fechaHoy',interval -1 day) limit 1" | cut -d "	" -f1)
+cantResultadoFechaCierre=$(mysql -se "$queryFechaBaseCount $fechaHoy',interval -1 day) limit 1")
+cantResultadoFechaInicio=$(mysql -se "$queryFechaBaseCount $fechaHoy',interval -2 day) limit 1")
+cantResultadoFechaAsignacion=$(mysql -se "$queryFechaBaseCount $fechaHoy',interval 0 day) limit 1")
+queryFlagDistribucionSQL=$queries/obtenerFlagDistribucion.sql
+queryActualizarFlagDistribucion=$queries/actualizarFlagDistribucion.sql
+fecha=$(date +%d-%m-%Y-%H.%M)
+varLogCierreAsigInicio=/home/callcenter/interfaz/proceso/logs/cierreInicioAsignacionFlag.txt
 
-#ejecutarQuery ()
-#{
-#query=$(cat $1)
-#
-#mysql -se "$query"
-#
-#}
+obtenerFlagDistribucion()
+{
+	flagDistribucionAux=$(cat $queryFlagDistribucionSQL)
+	flagVigenteEnDistribucion=$(mysql -se "$flagDistribucionAux")
+}
+
+actualizarFlagDistribucion()
+{
+	queryBaseFlag=$(cat $queryActualizarFlagDistribucion)
+	if [ $1 -eq 1 ]
+		then
+			mysql -se "$queryBaseFlag 0"
+			echo -e "=============================\n$fecha\nSe modifico el flag de 1 a 0\n=============================" >>$varLogCierreAsigInicio
+		else
+			mysql -se "$queryBaseFlag 1"
+			echo -e  "=============================\n$fecha\nSe modifico el flag de 0 a 1\n=============================" >>$varLogCierreAsigInicio
+
+	fi
+}
+
+loguearCierreOAsignacionOInicio()
+{
+	fecha=$(date +%d-%m-%Y-%H.%M)
+	case $1 in
+		1)
+			echo -e "=============================\n$fecha\nNo es fecha de inicio, no se realizaron actividades de inicio.\n=============================" >>$varLogCierreAsigInicio
+		;;
+		2)
+			echo -e "=============================\n$fecha\nSe realizaron las actividades de inicio.\n=============================" >>$varLogCierreAsigInicio
+		;;
+		3)
+			echo -e "=============================\n$fecha\nNo es fecha de cierre, no se realizaron actividades de cierre.\n=============================" >>$varLogCierreAsigInicio
+		;;
+		4)
+			echo -e "=============================\n$fecha\nSe han ejecutado las actividades de cierre y se ha modificado el valor del flag.\n=============================" >>$varLogCierreAsigInicio
+		;;
+		5)
+			echo -e "=============================\n$fecha\nNo se ejecutaron actividades de cierre porque si bien la fecha es de cierre, el flag Necesario y el actual no coinciden.\n=============================" >>$varLogCierreAsigInicio
+		;;
+		6)
+			echo -e "=============================\n$fecha\nNo es fecha de asignacion, no se ejecutaron actividades de asignación.\n=============================" >>$varLogCierreAsigInicio
+		;;
+		7)
+			echo -e "=============================\n$fecha\nSe han ejecutado actividades de asignacion.\n=============================" >>$varLogCierreAsigInicio
+		;;
+		*)
+			echo -e "=============================\n$fecha\nERROR: No recibí ningun numero como parametro.\n=============================" >>$varLogCierreAsigInicio
+		;;
+	esac
+}
 
 registrarContadorDistribucionEnLog ()
 {
@@ -70,105 +124,26 @@ actividadesCierre ()
 	$realizarReporteDeCierre
 }
 
+
 esFechaDeCierre ()
-
 {
-
-mes=$(date +%D | cut -d "/" -f 1)
-dia=$(date +%D | cut -d "/" -f 2)
-anio=$(date +%D | cut -d "/" -f 3)
-flagDistribucion=$(cat /home/callcenter/interfaz/proceso/archivos/flagDistribucion.txt)
-flagDistribucionArchivo=/home/callcenter/interfaz/proceso/archivos/flagDistribucion.txt
-
-#------------------------------------------------
-#             FECHA DE CIERRE + 1
-#------------------------------------------------
-
-#TENER EN CUENTA QUE SE LE DEBE SUMAR UN DIA AL CIERRE, PORQUE SE PROCESA DESPUES DE MEDIANOCHE DEL DIA DE CIERRE DE COBRANZAS
-
-
-if [[ $dia -eq 30 && $mes -eq 1 && $anio -eq 18 && $flagDistribucion -eq 0 ]]
-then
-	echo 1 > $flagDistribucionArchivo
-	actividadesCierre 
-
-fi
-
-if [[ $dia -eq 27 && $mes -eq 2 && $anio -eq 18 && $flagDistribucion -eq 1 ]]
-then
-	echo 0 > $flagDistribucionArchivo
-	actividadesCierre 
-
-
-fi
-
-if [[ $dia -eq 29 && $mes -eq 3 && $anio -eq 18 && $flagDistribucion -eq 0 ]]
-then
-	echo 1 > $flagDistribucionArchivo
-	actividadesCierre
-fi
-
-if [[ $dia -eq 28 && $mes -eq 4 && $anio -eq 18 && $flagDistribucion -eq 1 ]]
-then
-	echo 0 > $flagDistribucionArchivo
-	actividadesCierre
-fi
-
-if [[ $dia -eq 30 && $mes -eq 5 && $anio -eq 18 && $flagDistribucion -eq 0 ]]
-then
-	echo 1 > $flagDistribucionArchivo
-	actividadesCierre
-fi
-
-if [[ $dia -eq 29 && $mes -eq 6 && $anio -eq 18 && $flagDistribucion -eq 1 ]]
-then
-	echo 0 > $flagDistribucionArchivo
-	actividadesCierre
-fi
-
-if [[ $dia -eq 31 && $mes -eq 7 && $anio -eq 18 && $flagDistribucion -eq 0 ]]
-then
-	echo 1 > $flagDistribucionArchivo
-	actividadesCierre
-
-fi
-
-if [[ $dia -eq 30 && $mes -eq 8 && $anio -eq 18 && $flagDistribucion -eq 1 ]]
-then
-	echo 0 > $flagDistribucionArchivo
-	actividadesCierre
-
-fi
-
-if [[ $dia -eq 28 && $mes -eq 9 && $anio -eq 18 && $flagDistribucion -eq 0 ]]
-then
-	echo 1 > $flagDistribucionArchivo
-	actividadesCierre
-
-fi
-
-if [[ $dia -eq 30 && $mes -eq 10 && $anio -eq 18 && $flagDistribucion -eq 1 ]]
-then
-	echo 0 > $flagDistribucionArchivo
-	actividadesCierre
-fi
-
-if [[ $dia -eq 29 && $mes -eq 11 && $anio -eq 18 && $flagDistribucion -eq 0 ]]
-then
-	echo 1 > $flagDistribucionArchivo
-	actividadesCierre
-fi
-
-if [[ $dia -eq 28 && $mes -eq 12 && $anio -eq 18 && $flagDistribucion -eq 1 ]]
-then
-	echo 0 > $flagDistribucionArchivo
-	actividadesCierre
-
-fi
-
+	#Pregunto si es fecha de ejecución de cierre ( un día posterior a la fecha de cierre del banco)
+	if [ $cantResultadoFechaCierre -eq 0 ] 
+		then
+			loguearCierreOAsignacionOInicio 3 
+		else
+			obtenerFlagDistribucion
+			if [ $resultadoFlagNecesarioParaEjecutarCierre -eq $flagVigenteEnDistribucion ]
+				then 
+					actividadesCierre
+					loguearCierreOAsignacionOInicio 4
+					actualizarFlagDistribucion $flagVigenteEnDistribucion
+				else
+					loguearCierreOAsignacionOInicio 5
+			fi
+	fi
 }
 
-#===========================
 actividadesDeInicio ()
 {
 
@@ -176,91 +151,16 @@ actividadesDeInicio ()
 }
 
 esFechaDeInicio ()
-
 {
-
-mes=$(date +%D | cut -d "/" -f 1)
-dia=$(date +%D | cut -d "/" -f 2)
-anio=$(date +%D | cut -d "/" -f 3)
-
-#------------------------------------------------
-#             FECHA DE CIERRE + 2
-#------------------------------------------------
-
-#TENER EN CUENTA QUE SE LE DEBE SUMAR DOS DIAS AL DIA DE CIERRE, PORQUE SE PROCESA DESPUES DE MEDIANOCHE DEL DIA SIGUIENTE AL CIERRE DE COBRANZAS
-
-if [[ $dia -eq 31 && $mes -eq 1 && $anio -eq 18 ]]
-then
-	actividadesDeInicio 
-
-fi
-
-if [[ $dia -eq 28 && $mes -eq 2 && $anio -eq 18 ]]
-then
-	actividadesDeInicio 
-
-
-fi
-
-if [[ $dia -eq 29 && $mes -eq 3 && $anio -eq 18 ]]
-then
-	actividadesDeInicio 
-fi
-
-if [[ $dia -eq 29 && $mes -eq 4 && $anio -eq 18 ]]
-then
-	actividadesDeInicio 
-fi
-
-if [[ $dia -eq 31 && $mes -eq 5 && $anio -eq 18 ]]
-then
-	actividadesDeInicio 
-fi
-
-if [[ $dia -eq 30 && $mes -eq 6 && $anio -eq 18 ]]
-then
-	actividadesDeInicio 
-fi
-
-if [[ $dia -eq 1 && $mes -eq 8 && $anio -eq 18 ]]
-then
-	actividadesDeInicio 
-
-fi
-
-if [[ $dia -eq 31 && $mes -eq 8 && $anio -eq 18 ]]
-then
-	actividadesDeInicio 
-
-fi
-
-if [[ $dia -eq 29 && $mes -eq 9 && $anio -eq 18 ]]
-then
-	actividadesDeInicio 
-
-fi
-
-if [[ $dia -eq 31 && $mes -eq 10 && $anio -eq 18 ]]
-then
-	actividadesDeInicio 
-fi
-
-if [[ $dia -eq 30 && $mes -eq 11 && $anio -eq 18 ]]
-then
-	actividadesDeInicio 
-fi
-
-if [[ $dia -eq 29 && $mes -eq 12 && $anio -eq 18 ]]
-then
-	actividadesDeInicio 
-
-fi
-
+	#Pregunto si es fecha de inicio ( dos días posteriores a la fecha de cierre del banco)
+	if [ $cantResultadoFechaInicio -eq 0 ] 
+		then
+			loguearCierreOAsignacionOInicio 1
+		else
+			actividadesDeInicio 
+			loguearCierreOAsignacionOInicio 2
+	fi
 }
-
-
-#===========================
-
 
 armarMensajeProcesoDiario ()
 

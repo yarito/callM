@@ -1,0 +1,1 @@
+UPDATE flagVigenteEnDistribucion SET FLAG=

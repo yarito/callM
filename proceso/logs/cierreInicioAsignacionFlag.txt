@@ -1,0 +1,80 @@
+=============================
+29-07-2018-15.35
+Se han ejecutado actividades de asignacion.
+=============================
+=============================
+29-07-2018-15.50
+No es fecha de cierre, no se realizaron actividades de cierre.
+=============================
+=============================
+29-07-2018-15.50
+No es fecha de inicio, no se realizaron actividades de inicio.
+=============================
+=============================
+29-07-2018-15.50
+No es fecha de cierre, no se realizaron actividades de cierre.
+=============================
+=============================
+29-07-2018-15.50
+No es fecha de inicio, no se realizaron actividades de inicio.
+=============================
+=============================
+29-07-2018-15.50
+No es fecha de cierre, no se realizaron actividades de cierre.
+=============================
+=============================
+29-07-2018-15.50
+No es fecha de inicio, no se realizaron actividades de inicio.
+=============================
+=============================
+29-07-2018-15.51
+No es fecha de cierre, no se realizaron actividades de cierre.
+=============================
+=============================
+29-07-2018-15.51
+No es fecha de inicio, no se realizaron actividades de inicio.
+=============================
+=============================
+29-07-2018-15.54
+No es fecha de cierre, no se realizaron actividades de cierre.
+=============================
+=============================
+29-07-2018-15.54
+No es fecha de inicio, no se realizaron actividades de inicio.
+=============================
+=============================
+29-07-2018-15.59
+Se han ejecutado las actividades de cierre y se ha modificado el valor del flag.
+=============================
+=============================
+29-07-2018-15.59
+Se modifico el flag de 1 a 0
+=============================
+=============================
+29-07-2018-15.59
+No es fecha de inicio, no se realizaron actividades de inicio.
+=============================
+=============================
+29-07-2018-15.59
+No se ejecutaron actividades de cierre porque si bien la fecha es de cierre, el flag Necesario y el actual no coinciden.
+=============================
+=============================
+29-07-2018-15.59
+Se realizaron las actividades de inicio.
+=============================
+=============================
+29-07-2018-15.59
+Se han ejecutado las actividades de cierre y se ha modificado el valor del flag.
+=============================
+=============================
+29-07-2018-15.59
+Se modifico el flag de 1 a 0
+=============================
+=============================
+29-07-2018-15.59
+Se realizaron las actividades de inicio.
+=============================
+=============================
+29-07-2018-16.09
+No es fecha de asignacion, no se ejecutaron actividades de asignación.
+=============================

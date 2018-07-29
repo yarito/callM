@@ -1,0 +1,1 @@
+SELECT flagNecesarioParaEjecutarCierre FRoM fechas_cierre  where fecha=date_add('

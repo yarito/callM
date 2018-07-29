@@ -13,6 +13,17 @@ query3=$queries/asignacionPaso3ColumnaQ.sql
 query4=$queries/asignacionPaso4ColumnaR.sql
 query5=$queries/asignacionPaso5.sql
 ejecutarQuery=/home/callcenter/interfaz/proceso/run_n_log_query.sh
+queryFechaBaseCount=$(cat $queries/fechaBaseCount.sql)
+queryCierreBase=$(cat $queries/fechaCierreBase.sql)
+fechaHoy=$(date +%Y-%m-%d)
+resultadoFlagNecesarioParaEjecutarCierre=$(mysql -se "$queryCierreBase $fechaHoy',interval -1 day) limit 1" | cut -d "	" -f1)
+cantResultadoFechaCierre=$(mysql -se "$queryFechaBaseCount $fechaHoy',interval -1 day) limit 1")
+cantResultadoFechaInicio=$(mysql -se "$queryFechaBaseCount $fechaHoy',interval -2 day) limit 1")
+cantResultadoFechaAsignacion=$(mysql -se "$queryFechaBaseCount $fechaHoy',interval 0 day) limit 1")
+queryFlagDistribucionSQL=$queries/obtenerFlagDistribucion.sql
+queryActualizarFlagDistribucion=$queries/actualizarFlagDistribucion.sql
+fecha=$(date +%d-%m-%Y-%H.%M)
+varLogCierreAsigInicio=/home/callcenter/interfaz/proceso/logs/cierreInicioAsignacionFlag.txt
 
 ejecutarQuery ()
 {
@@ -52,101 +63,47 @@ procesoAsignacion ()
 
 }
 
-esFechaDeCierre ()
-
+loguearCierreOAsignacionOInicio()
 {
+	fecha=$(date +%d-%m-%Y-%H.%M)
+	case $1 in
+		1)
+			echo -e "=============================\n$fecha\nNo es fecha de inicio, no se realizaron actividades de inicio.\n=============================" >>$varLogCierreAsigInicio
+		;;
+		2)
+			echo -e "=============================\n$fecha\nSe realizaron las actividades de inicio.\n=============================" >>$varLogCierreAsigInicio
+		;;
+		3)
+			echo -e "=============================\n$fecha\nNo es fecha de cierre, no se realizaron actividades de cierre.\n=============================" >>$varLogCierreAsigInicio
+		;;
+		4)
+			echo -e "=============================\n$fecha\nSe han ejecutado las actividades de cierre y se ha modificado el valor del flag.\n=============================" >>$varLogCierreAsigInicio
+		;;
+		5)
+			echo -e "=============================\n$fecha\nNo se ejecutaron actividades de cierre porque si bien la fecha es de cierre, el flag Necesario y el actual no coinciden.\n=============================" >>$varLogCierreAsigInicio
+		;;
+		6)
+			echo -e "=============================\n$fecha\nNo es fecha de asignacion, no se ejecutaron actividades de asignación.\n=============================" >>$varLogCierreAsigInicio
+		;;
+		7)
+			echo -e "=============================\n$fecha\nSe han ejecutado actividades de asignacion.\n=============================" >>$varLogCierreAsigInicio
+		;;
+		*)
+			echo -e "=============================\n$fecha\nERROR: No recibí ningun numero como parametro.\n=============================" >>$varLogCierreAsigInicio
+		;;
+	esac
+}
 
-mes=$(date +%D | cut -d "/" -f 1)
-dia=$(date +%D | cut -d "/" -f 2)
-anio=$(date +%D | cut -d "/" -f 3)
-
-
-#------------------------------------------------
-#               FECHA DE CIERRE
-#------------------------------------------------
-
-
-#FECHAS DE CIERRE EXACTAS SIN SUMAR NADA
-
-if [[ $dia -eq 29 && $mes -eq 1 && $anio -eq 18  ]]
-then
-	
-	procesoAsignacion 
-
-fi
-
-if [[ $dia -eq 26 && $mes -eq 2 && $anio -eq 18  ]]
-then
-	
-	procesoAsignacion 
-
-
-fi
-
-if [[ $dia -eq 27 && $mes -eq 3 && $anio -eq 18  ]]
-then
-	
-	procesoAsignacion
-fi
-
-if [[ $dia -eq 27 && $mes -eq 4 && $anio -eq 18  ]]
-then
-	
-	procesoAsignacion
-fi
-
-if [[ $dia -eq 29 && $mes -eq 5 && $anio -eq 18  ]]
-then
-	
-	procesoAsignacion
-fi
-
-if [[ $dia -eq 28 && $mes -eq 6 && $anio -eq 18  ]]
-then
-	
-	procesoAsignacion
-fi
-
-if [[ $dia -eq 30 && $mes -eq 7 && $anio -eq 18  ]]
-then
-	
-	procesoAsignacion
-
-fi
-
-if [[ $dia -eq 29 && $mes -eq 8 && $anio -eq 18  ]]
-then
-	
-	procesoAsignacion
-
-fi
-
-if [[ $dia -eq 27 && $mes -eq 9 && $anio -eq 18  ]]
-then
-	
-	procesoAsignacion
-
-fi
-
-if [[ $dia -eq 29 && $mes -eq 10 && $anio -eq 18  ]]
-then
-	
-	procesoAsignacion
-fi
-
-if [[ $dia -eq 28 && $mes -eq 11 && $anio -eq 18  ]]
-then
-	
-	procesoAsignacion
-fi
-
-if [[ $dia -eq 27 && $mes -eq 12 && $anio -eq 18  ]]
-then
-	
-	procesoAsignacion
-
-fi
-
+esFechaDeAsignacion ()
+{
+	#Pregunto si es fecha de asignacion ( el mismo dia que la fecha de cierre del banco)
+	if [ $cantResultadoFechaAsignacion -eq 0 ] 
+		then
+			loguearCierreOAsignacionOInicio 6
+		else
+			procesoAsignacion 
+			loguearCierreOAsignacionOInicio 7
+	fi
 }
 
 mandarMailDestinatarios ()
@@ -173,4 +130,4 @@ done
 }
 
 
-esFechaDeCierre
+esFechaDeAsignacion 
