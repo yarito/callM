@@ -1,0 +1,1311 @@
+#16/12/2017----16:46
+Hubo un error al ejecutar procesoDiario.sh
+===============================
+===============================
+#17/12/2017----16:38
+Hubo un error al ejecutar procesoDiario.sh
+===============================
+===============================
+#18/12/2017----16:01
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#19/12/2017----16:01
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#20/12/2017----16:27
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#21/12/2017----16:31
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#22/12/2017----16:22
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#22/12/2017----18:47
+Hubo un error al ejecutar procesoDiario.sh
+===============================
+===============================
+#22/12/2017----18:48
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#22/12/2017----18:48
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#22/12/2017----18:48
+Se ejecuto correctamente cierreDeMes.sh
+===============================
+===============================
+#22/12/2017----18:53
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#23/12/2017----16:40
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#24/12/2017----16:39
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#25/12/2017----16:36
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#26/12/2017----16:35
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#27/12/2017----17:22
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#28/12/2017----10:03
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#28/12/2017----10:03
+Hubo un error al ejecutar cierreDeMes.sh
+===============================
+===============================
+#05/01/2018----05:48
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#06/01/2018----05:51
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#07/01/2018----05:51
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#08/01/2018----05:52
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#09/01/2018----05:45
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#10/01/2018----05:46
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#11/01/2018----05:09
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#11/01/2018----09:41
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#12/01/2018----05:45
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#13/01/2018----05:45
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#14/01/2018----05:44
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#15/01/2018----05:46
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#16/01/2018----05:42
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#17/01/2018----05:41
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#18/01/2018----05:41
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#19/01/2018----05:40
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#20/01/2018----05:43
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#21/01/2018----05:40
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#22/01/2018----05:48
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#23/01/2018----05:39
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#24/01/2018----05:39
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#25/01/2018----05:39
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#26/01/2018----05:42
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#27/01/2018----05:42
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#28/01/2018----05:40
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#29/01/2018----05:47
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#30/01/2018----06:06
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#30/01/2018----08:00
+Se ejecuto correctamente cierreDeMes.sh
+===============================
+===============================
+#31/01/2018----06:05
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#01/02/2018----06:05
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#02/02/2018----06:06
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#03/02/2018----05:57
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#04/02/2018----06:01
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#05/02/2018----06:00
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#06/02/2018----05:59
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#07/02/2018----05:53
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#08/02/2018----05:54
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#09/02/2018----05:55
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#10/02/2018----05:54
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#11/02/2018----05:54
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#12/02/2018----05:56
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#13/02/2018----05:55
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#14/02/2018----05:54
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#15/02/2018----05:50
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#16/02/2018----05:47
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#17/02/2018----05:48
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#18/02/2018----05:46
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#19/02/2018----05:48
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#21/02/2018----05:51
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#22/02/2018----05:50
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#23/02/2018----05:44
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#24/02/2018----05:44
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#25/02/2018----05:41
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#26/02/2018----05:46
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#27/02/2018----06:22
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===========================
+27/02/2018----07:11
+Se distribuyeron 66336 registros.
+===========================
+===============================
+#27/02/2018----07:11
+Se ejecuto correctamente cierreDeMes.sh
+===============================
+===============================
+#28/02/2018----06:19
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#01/03/2018----06:21
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#02/03/2018----06:24
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#03/03/2018----06:20
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#04/03/2018----06:18
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#05/03/2018----06:16
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#06/03/2018----06:10
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#07/03/2018----06:01
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#08/03/2018----06:04
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#09/03/2018----05:57
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#10/03/2018----06:00
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#11/03/2018----05:58
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#12/03/2018----06:01
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#13/03/2018----05:55
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#14/03/2018----05:56
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#15/03/2018----06:01
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#16/03/2018----05:55
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#17/03/2018----06:00
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#18/03/2018----05:56
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#19/03/2018----05:58
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#20/03/2018----05:50
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#21/03/2018----05:48
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#22/03/2018----05:50
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#23/03/2018----05:47
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#24/03/2018----05:48
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#25/03/2018----05:51
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#26/03/2018----05:52
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#27/03/2018----05:55
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#28/03/2018----06:19
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#29/03/2018----06:24
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#30/03/2018----06:14
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#31/03/2018----06:31
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#01/04/2018----06:20
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#02/04/2018----06:23
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#03/04/2018----06:23
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#04/04/2018----06:15
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#05/04/2018----06:05
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#06/04/2018----06:05
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#07/04/2018----06:06
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#08/04/2018----06:03
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#09/04/2018----06:06
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#10/04/2018----05:58
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#11/04/2018----05:57
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#12/04/2018----05:58
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#13/04/2018----05:56
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#14/04/2018----05:58
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#15/04/2018----05:54
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#16/04/2018----05:59
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#17/04/2018----05:51
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#18/04/2018----05:52
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#19/04/2018----05:58
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#20/04/2018----05:55
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#21/04/2018----05:56
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#22/04/2018----05:50
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#23/04/2018----05:53
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#24/04/2018----05:00
+Hubo un error al ejecutar Proceso_Diario_No_Hay_Archivos_En_Procesar
+===============================
+===============================
+#25/04/2018----06:22
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#26/04/2018----05:48
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#27/04/2018----06:26
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================================================================
+27-04-2018-06.30
+insert into DISTRIBUCION_Backup select IDLOTE,IDDISTRIBUCION,IDUSUARIO,SUCURSAL,IDGRUPO,IDPERFIL,IDCARTERA,MONTO,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+27-04-2018-06.30
+LLAMADOS,FECHAALTA,FECHABAJA,ESTADO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LLAMADOS,FECHAALTA,FECHABAJA,ESTADO,now()' at line 1
+===============================================================================
+27-04-2018-06.30
+ from DISTRIBUCION;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from DISTRIBUCION' at line 1
+===============================================================================
+27-04-2018-06.30
+insert into USUARIOPERFILES_Backup select IDUSUARIOPERFILES,IDUSUARIO,IDGRUPO,IDPERFIL,IDSUCURSAL,FACTOR,TOPEPTF,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+27-04-2018-06.30
+TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()' at line 1
+===============================================================================
+27-04-2018-06.30
+from USUARIOPERFILES;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from USUARIOPERFILES' at line 1
+===============================================================================
+27-04-2018-06.30
+insert into USUARIOPERFILES_TMP_Backup select IDUSUARIOPERFILES,IDUSUARIO,IDGRUPO,IDPERFIL,IDSUCURSAL,FACTOR,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+27-04-2018-06.30
+TOPEPTF,TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TOPEPTF,TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()' at line 1
+===============================================================================
+27-04-2018-06.30
+from USUARIOPERFILES_TMP;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from USUARIOPERFILES_TMP' at line 1
+===========================
+27/04/2018----08:54
+Se distribuyeron  registros.
+===========================
+===============================================================================
+27-04-2018-08.54
+insert into DISTRIBUCION_Backup select IDLOTE,IDDISTRIBUCION,IDUSUARIO,SUCURSAL,IDGRUPO,IDPERFIL,IDCARTERA,MONTO,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+27-04-2018-08.54
+LLAMADOS,FECHAALTA,FECHABAJA,ESTADO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LLAMADOS,FECHAALTA,FECHABAJA,ESTADO,now()' at line 1
+===============================================================================
+27-04-2018-08.54
+ from DISTRIBUCION;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from DISTRIBUCION' at line 1
+===============================================================================
+27-04-2018-08.54
+insert into USUARIOPERFILES_Backup select IDUSUARIOPERFILES,IDUSUARIO,IDGRUPO,IDPERFIL,IDSUCURSAL,FACTOR,TOPEPTF,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+27-04-2018-08.54
+TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()' at line 1
+===============================================================================
+27-04-2018-08.54
+from USUARIOPERFILES;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from USUARIOPERFILES' at line 1
+===============================================================================
+27-04-2018-08.54
+insert into USUARIOPERFILES_TMP_Backup select IDUSUARIOPERFILES,IDUSUARIO,IDGRUPO,IDPERFIL,IDSUCURSAL,FACTOR,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+27-04-2018-08.54
+TOPEPTF,TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TOPEPTF,TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()' at line 1
+===============================================================================
+27-04-2018-08.54
+from USUARIOPERFILES_TMP;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from USUARIOPERFILES_TMP' at line 1
+===============================================================================
+27-04-2018-08.54
+INSERT INTO CARTERA_Backup SELECT IDCARTERA,IDMOROSO,IDGARANTE,TIPOCARTERA,TIPOPROCESO,FECHAPROCESO,SUCURSAL,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+27-04-2018-08.54
+NUMCREDITO,DOLARES,IMPORTE,FECHA,CUOTAS,ULTIMACUOTA,DIAS,SALDO,FRAVSAENZ,CUOTASATRASADAS,AUXNUEVO,CANTATRASADAS,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NUMCREDITO,DOLARES,IMPORTE,FECHA,CUOTAS,ULTIMACUOTA,DIAS,SALDO,FRAVSAENZ,CUOTASA' at line 1
+===============================================================================
+27-04-2018-08.54
+CATEGORIA,TIPOCREDITO,VENDEDOR,OBSERVACIONES,DEBEPAGARINT,FECVENCIMIENTO,SALDOBCO,TIPOTARJETA,SALDOPESOS,SALDODOLAR,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CATEGORIA,TIPOCREDITO,VENDEDOR,OBSERVACIONES,DEBEPAGARINT,FECVENCIMIENTO,SALDOBC' at line 1
+===============================================================================
+27-04-2018-08.54
+CANTIMP,FECHAAGENDA,FECHAALTA,FECHABAJA,ESTADO,DEBAUTO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CANTIMP,FECHAAGENDA,FECHAALTA,FECHABAJA,ESTADO,DEBAUTO,now()' at line 1
+===============================================================================
+27-04-2018-08.54
+from CARTERA;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from CARTERA' at line 1
+===============================
+#27/04/2018----08:54
+Se ejecuto correctamente cierreDeMes.sh
+===============================
+===============================
+#28/04/2018----06:28
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================================================================
+28-04-2018-06.33
+insert into DISTRIBUCION_Backup select IDLOTE,IDDISTRIBUCION,IDUSUARIO,SUCURSAL,IDGRUPO,IDPERFIL,IDCARTERA,MONTO,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+28-04-2018-06.33
+LLAMADOS,FECHAALTA,FECHABAJA,ESTADO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LLAMADOS,FECHAALTA,FECHABAJA,ESTADO,now()' at line 1
+===============================================================================
+28-04-2018-06.33
+ from DISTRIBUCION;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from DISTRIBUCION' at line 1
+===============================================================================
+28-04-2018-06.33
+insert into USUARIOPERFILES_Backup select IDUSUARIOPERFILES,IDUSUARIO,IDGRUPO,IDPERFIL,IDSUCURSAL,FACTOR,TOPEPTF,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+28-04-2018-06.33
+TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()' at line 1
+===============================================================================
+28-04-2018-06.33
+from USUARIOPERFILES;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from USUARIOPERFILES' at line 1
+===============================================================================
+28-04-2018-06.33
+insert into USUARIOPERFILES_TMP_Backup select IDUSUARIOPERFILES,IDUSUARIO,IDGRUPO,IDPERFIL,IDSUCURSAL,FACTOR,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+28-04-2018-06.33
+TOPEPTF,TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TOPEPTF,TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()' at line 1
+===============================================================================
+28-04-2018-06.33
+from USUARIOPERFILES_TMP;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from USUARIOPERFILES_TMP' at line 1
+===========================
+28/04/2018----09:15
+Se distribuyeron  registros.
+===========================
+===============================================================================
+28-04-2018-09.15
+insert into DISTRIBUCION_Backup select IDLOTE,IDDISTRIBUCION,IDUSUARIO,SUCURSAL,IDGRUPO,IDPERFIL,IDCARTERA,MONTO,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+28-04-2018-09.15
+LLAMADOS,FECHAALTA,FECHABAJA,ESTADO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LLAMADOS,FECHAALTA,FECHABAJA,ESTADO,now()' at line 1
+===============================================================================
+28-04-2018-09.15
+ from DISTRIBUCION;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from DISTRIBUCION' at line 1
+===============================================================================
+28-04-2018-09.15
+insert into USUARIOPERFILES_Backup select IDUSUARIOPERFILES,IDUSUARIO,IDGRUPO,IDPERFIL,IDSUCURSAL,FACTOR,TOPEPTF,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+28-04-2018-09.15
+TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()' at line 1
+===============================================================================
+28-04-2018-09.15
+from USUARIOPERFILES;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from USUARIOPERFILES' at line 1
+===============================================================================
+28-04-2018-09.15
+insert into USUARIOPERFILES_TMP_Backup select IDUSUARIOPERFILES,IDUSUARIO,IDGRUPO,IDPERFIL,IDSUCURSAL,FACTOR,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+28-04-2018-09.15
+TOPEPTF,TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TOPEPTF,TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()' at line 1
+===============================================================================
+28-04-2018-09.15
+from USUARIOPERFILES_TMP;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from USUARIOPERFILES_TMP' at line 1
+===============================================================================
+28-04-2018-09.15
+INSERT INTO CARTERA_Backup SELECT IDCARTERA,IDMOROSO,IDGARANTE,TIPOCARTERA,TIPOPROCESO,FECHAPROCESO,SUCURSAL,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+28-04-2018-09.15
+NUMCREDITO,DOLARES,IMPORTE,FECHA,CUOTAS,ULTIMACUOTA,DIAS,SALDO,FRAVSAENZ,CUOTASATRASADAS,AUXNUEVO,CANTATRASADAS,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NUMCREDITO,DOLARES,IMPORTE,FECHA,CUOTAS,ULTIMACUOTA,DIAS,SALDO,FRAVSAENZ,CUOTASA' at line 1
+===============================================================================
+28-04-2018-09.15
+CATEGORIA,TIPOCREDITO,VENDEDOR,OBSERVACIONES,DEBEPAGARINT,FECVENCIMIENTO,SALDOBCO,TIPOTARJETA,SALDOPESOS,SALDODOLAR,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CATEGORIA,TIPOCREDITO,VENDEDOR,OBSERVACIONES,DEBEPAGARINT,FECVENCIMIENTO,SALDOBC' at line 1
+===============================================================================
+28-04-2018-09.15
+CANTIMP,FECHAAGENDA,FECHAALTA,FECHABAJA,ESTADO,DEBAUTO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CANTIMP,FECHAAGENDA,FECHAALTA,FECHABAJA,ESTADO,DEBAUTO,now()' at line 1
+===============================================================================
+28-04-2018-09.15
+from CARTERA;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from CARTERA' at line 1
+===============================
+#28/04/2018----09:15
+Se ejecuto correctamente cierreDeMes.sh
+===============================
+===============================
+#29/04/2018----06:23
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#30/04/2018----06:27
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#01/05/2018----06:21
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#02/05/2018----05:00
+Hubo un error al ejecutar Proceso_Diario_No_Hay_Archivos_En_Procesar
+===============================
+===============================
+#03/05/2018----06:15
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#04/05/2018----06:18
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#05/05/2018----06:14
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#06/05/2018----06:13
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#07/05/2018----06:20
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#08/05/2018----06:18
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#09/05/2018----06:11
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#10/05/2018----06:13
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#11/05/2018----06:07
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#12/05/2018----06:11
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#13/05/2018----06:13
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#14/05/2018----06:23
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#15/05/2018----06:11
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#16/05/2018----06:01
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#17/05/2018----06:02
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#18/05/2018----05:58
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#19/05/2018----06:08
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#20/05/2018----05:58
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#21/05/2018----06:06
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#22/05/2018----06:00
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#23/05/2018----05:57
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#24/05/2018----05:59
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#25/05/2018----05:42
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#26/05/2018----05:52
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#27/05/2018----06:24
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#28/05/2018----05:48
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#29/05/2018----05:34
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#30/05/2018----05:43
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================================================================
+30-05-2018-05.44
+insert into DISTRIBUCION_Backup select IDLOTE,IDDISTRIBUCION,IDUSUARIO,SUCURSAL,IDGRUPO,IDPERFIL,IDCARTERA,MONTO,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+30-05-2018-05.44
+LLAMADOS,FECHAALTA,FECHABAJA,ESTADO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LLAMADOS,FECHAALTA,FECHABAJA,ESTADO,now()' at line 1
+===============================================================================
+30-05-2018-05.44
+ from DISTRIBUCION;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from DISTRIBUCION' at line 1
+===============================================================================
+30-05-2018-05.44
+insert into USUARIOPERFILES_Backup select IDUSUARIOPERFILES,IDUSUARIO,IDGRUPO,IDPERFIL,IDSUCURSAL,FACTOR,TOPEPTF,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+30-05-2018-05.44
+TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()' at line 1
+===============================================================================
+30-05-2018-05.44
+from USUARIOPERFILES;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from USUARIOPERFILES' at line 1
+===============================================================================
+30-05-2018-05.44
+insert into USUARIOPERFILES_TMP_Backup select IDUSUARIOPERFILES,IDUSUARIO,IDGRUPO,IDPERFIL,IDSUCURSAL,FACTOR,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+30-05-2018-05.44
+TOPEPTF,TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TOPEPTF,TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()' at line 1
+===============================================================================
+30-05-2018-05.44
+from USUARIOPERFILES_TMP;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from USUARIOPERFILES_TMP' at line 1
+===========================
+30/05/2018----07:34
+Se distribuyeron  registros.
+===========================
+===============================================================================
+30-05-2018-07.34
+insert into DISTRIBUCION_Backup select IDLOTE,IDDISTRIBUCION,IDUSUARIO,SUCURSAL,IDGRUPO,IDPERFIL,IDCARTERA,MONTO,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+30-05-2018-07.34
+LLAMADOS,FECHAALTA,FECHABAJA,ESTADO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LLAMADOS,FECHAALTA,FECHABAJA,ESTADO,now()' at line 1
+===============================================================================
+30-05-2018-07.34
+ from DISTRIBUCION;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from DISTRIBUCION' at line 1
+===============================================================================
+30-05-2018-07.34
+insert into USUARIOPERFILES_Backup select IDUSUARIOPERFILES,IDUSUARIO,IDGRUPO,IDPERFIL,IDSUCURSAL,FACTOR,TOPEPTF,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+30-05-2018-07.34
+TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()' at line 1
+===============================================================================
+30-05-2018-07.34
+from USUARIOPERFILES;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from USUARIOPERFILES' at line 1
+===============================================================================
+30-05-2018-07.34
+insert into USUARIOPERFILES_TMP_Backup select IDUSUARIOPERFILES,IDUSUARIO,IDGRUPO,IDPERFIL,IDSUCURSAL,FACTOR,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+30-05-2018-07.34
+TOPEPTF,TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TOPEPTF,TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()' at line 1
+===============================================================================
+30-05-2018-07.34
+from USUARIOPERFILES_TMP;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from USUARIOPERFILES_TMP' at line 1
+===============================================================================
+30-05-2018-07.34
+INSERT INTO CARTERA_Backup SELECT IDCARTERA,IDMOROSO,IDGARANTE,TIPOCARTERA,TIPOPROCESO,FECHAPROCESO,SUCURSAL,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+30-05-2018-07.34
+NUMCREDITO,DOLARES,IMPORTE,FECHA,CUOTAS,ULTIMACUOTA,DIAS,SALDO,FRAVSAENZ,CUOTASATRASADAS,AUXNUEVO,CANTATRASADAS,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NUMCREDITO,DOLARES,IMPORTE,FECHA,CUOTAS,ULTIMACUOTA,DIAS,SALDO,FRAVSAENZ,CUOTASA' at line 1
+===============================================================================
+30-05-2018-07.34
+CATEGORIA,TIPOCREDITO,VENDEDOR,OBSERVACIONES,DEBEPAGARINT,FECVENCIMIENTO,SALDOBCO,TIPOTARJETA,SALDOPESOS,SALDODOLAR,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CATEGORIA,TIPOCREDITO,VENDEDOR,OBSERVACIONES,DEBEPAGARINT,FECVENCIMIENTO,SALDOBC' at line 1
+===============================================================================
+30-05-2018-07.34
+CANTIMP,FECHAAGENDA,FECHAALTA,FECHABAJA,ESTADO,DEBAUTO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CANTIMP,FECHAAGENDA,FECHAALTA,FECHABAJA,ESTADO,DEBAUTO,now()' at line 1
+===============================================================================
+30-05-2018-07.34
+from CARTERA;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from CARTERA' at line 1
+===============================
+#30/05/2018----07:34
+Se ejecuto correctamente cierreDeMes.sh
+===============================
+===============================
+#31/05/2018----05:29
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#01/06/2018----05:30
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#02/06/2018----05:34
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#03/06/2018----05:51
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#04/06/2018----05:59
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#05/06/2018----05:29
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#06/06/2018----05:25
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#07/06/2018----05:30
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#08/06/2018----05:32
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#09/06/2018----05:39
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#10/06/2018----05:52
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#11/06/2018----05:49
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#12/06/2018----05:38
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#13/06/2018----05:34
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#14/06/2018----05:37
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#15/06/2018----05:31
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#16/06/2018----05:35
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#17/06/2018----05:44
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#18/06/2018----05:45
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#19/06/2018----05:33
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#20/06/2018----05:33
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#21/06/2018----05:48
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#22/06/2018----05:33
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#23/06/2018----05:33
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#24/06/2018----05:40
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#25/06/2018----05:44
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#26/06/2018----05:38
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#27/06/2018----05:30
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#28/06/2018----05:30
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#29/06/2018----05:43
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================================================================
+29-06-2018-05.44
+insert into DISTRIBUCION_Backup select IDLOTE,IDDISTRIBUCION,IDUSUARIO,SUCURSAL,IDGRUPO,IDPERFIL,IDCARTERA,MONTO,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+29-06-2018-05.44
+LLAMADOS,FECHAALTA,FECHABAJA,ESTADO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LLAMADOS,FECHAALTA,FECHABAJA,ESTADO,now()' at line 1
+===============================================================================
+29-06-2018-05.44
+ from DISTRIBUCION;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from DISTRIBUCION' at line 1
+===============================================================================
+29-06-2018-05.44
+insert into USUARIOPERFILES_Backup select IDUSUARIOPERFILES,IDUSUARIO,IDGRUPO,IDPERFIL,IDSUCURSAL,FACTOR,TOPEPTF,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+29-06-2018-05.44
+TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()' at line 1
+===============================================================================
+29-06-2018-05.44
+from USUARIOPERFILES;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from USUARIOPERFILES' at line 1
+===============================================================================
+29-06-2018-05.44
+insert into USUARIOPERFILES_TMP_Backup select IDUSUARIOPERFILES,IDUSUARIO,IDGRUPO,IDPERFIL,IDSUCURSAL,FACTOR,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+29-06-2018-05.44
+TOPEPTF,TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TOPEPTF,TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()' at line 1
+===============================================================================
+29-06-2018-05.44
+from USUARIOPERFILES_TMP;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from USUARIOPERFILES_TMP' at line 1
+===========================
+29/06/2018----10:38
+Se distribuyeron  registros.
+===========================
+===============================================================================
+29-06-2018-10.38
+insert into DISTRIBUCION_Backup select IDLOTE,IDDISTRIBUCION,IDUSUARIO,SUCURSAL,IDGRUPO,IDPERFIL,IDCARTERA,MONTO,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+29-06-2018-10.38
+LLAMADOS,FECHAALTA,FECHABAJA,ESTADO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LLAMADOS,FECHAALTA,FECHABAJA,ESTADO,now()' at line 1
+===============================================================================
+29-06-2018-10.38
+ from DISTRIBUCION;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from DISTRIBUCION' at line 1
+===============================================================================
+29-06-2018-10.38
+insert into USUARIOPERFILES_Backup select IDUSUARIOPERFILES,IDUSUARIO,IDGRUPO,IDPERFIL,IDSUCURSAL,FACTOR,TOPEPTF,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+29-06-2018-10.38
+TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()' at line 1
+===============================================================================
+29-06-2018-10.38
+from USUARIOPERFILES;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from USUARIOPERFILES' at line 1
+===============================================================================
+29-06-2018-10.38
+insert into USUARIOPERFILES_TMP_Backup select IDUSUARIOPERFILES,IDUSUARIO,IDGRUPO,IDPERFIL,IDSUCURSAL,FACTOR,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+29-06-2018-10.38
+TOPEPTF,TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TOPEPTF,TOPE,VETRAMOCOMPLETO,FECHAALTA,FECHABAJA,ESTADO,now()' at line 1
+===============================================================================
+29-06-2018-10.38
+from USUARIOPERFILES_TMP;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from USUARIOPERFILES_TMP' at line 1
+===============================================================================
+29-06-2018-10.38
+INSERT INTO CARTERA_Backup SELECT IDCARTERA,IDMOROSO,IDGARANTE,TIPOCARTERA,TIPOPROCESO,FECHAPROCESO,SUCURSAL,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+===============================================================================
+29-06-2018-10.38
+NUMCREDITO,DOLARES,IMPORTE,FECHA,CUOTAS,ULTIMACUOTA,DIAS,SALDO,FRAVSAENZ,CUOTASATRASADAS,AUXNUEVO,CANTATRASADAS,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NUMCREDITO,DOLARES,IMPORTE,FECHA,CUOTAS,ULTIMACUOTA,DIAS,SALDO,FRAVSAENZ,CUOTASA' at line 1
+===============================================================================
+29-06-2018-10.38
+CATEGORIA,TIPOCREDITO,VENDEDOR,OBSERVACIONES,DEBEPAGARINT,FECVENCIMIENTO,SALDOBCO,TIPOTARJETA,SALDOPESOS,SALDODOLAR,
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CATEGORIA,TIPOCREDITO,VENDEDOR,OBSERVACIONES,DEBEPAGARINT,FECVENCIMIENTO,SALDOBC' at line 1
+===============================================================================
+29-06-2018-10.38
+CANTIMP,FECHAAGENDA,FECHAALTA,FECHABAJA,ESTADO,DEBAUTO,now()
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CANTIMP,FECHAAGENDA,FECHAALTA,FECHABAJA,ESTADO,DEBAUTO,now()' at line 1
+===============================================================================
+29-06-2018-10.38
+from CARTERA;
+ERROR 1064 (42000) at line 1: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from CARTERA' at line 1
+===============================
+#29/06/2018----10:38
+Se ejecuto correctamente cierreDeMes.sh
+===============================
+===============================
+#30/06/2018----05:24
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#01/07/2018----05:37
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#02/07/2018----05:37
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#03/07/2018----05:27
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#04/07/2018----05:26
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#05/07/2018----05:35
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#06/07/2018----05:36
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#07/07/2018----05:32
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#08/07/2018----05:37
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#09/07/2018----05:39
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#10/07/2018----05:38
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#11/07/2018----05:26
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#12/07/2018----05:21
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#13/07/2018----05:27
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#14/07/2018----05:26
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#15/07/2018----05:31
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#16/07/2018----05:33
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#17/07/2018----05:23
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#18/07/2018----05:28
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#19/07/2018----05:27
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#20/07/2018----05:30
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#21/07/2018----05:31
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#22/07/2018----05:30
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#23/07/2018----05:30
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#24/07/2018----05:25
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#25/07/2018----05:24
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#26/07/2018----05:21
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#27/07/2018----05:24
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#28/07/2018----05:24
+Se ejecuto correctamente procesoDiario.sh
+===============================
+===============================
+#29/07/2018----05:25
+Se ejecuto correctamente procesoDiario.sh
+===============================

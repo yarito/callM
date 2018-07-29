@@ -1,0 +1,364 @@
+===============================
+19/02/2018----12.57
+Se ejecuto correctamente Legales_In
+===============================
+===============================
+19/02/2018----12.57
+Se ejecuto correctamente Legales_Out
+===============================
+===============================
+19/02/2018----12.59
+Se ejecuto correctamente Legales_In
+===============================
+===============================
+19/02/2018----12.59
+Se ejecuto correctamente Legales_Out
+===============================
+===============================
+19/02/2018----12.59
+Se ejecuto correctamente Legales_In
+===============================
+===============================
+19/02/2018----12.59
+Se ejecuto correctamente Legales_Out
+===============================
+===============================
+19/02/2018----13.00
+Se ejecuto correctamente Legales_In
+===============================
+===============================
+19/02/2018----13.00
+Se ejecuto correctamente Legales_Out
+===============================
+===============================
+19/02/2018----13.06
+Se ejecuto correctamente Reporte_Legales_In
+===============================
+===============================
+19/02/2018----13.06
+Se ejecuto correctamente Reporte_Legales_In
+===============================
+===============================
+19/02/2018----13.06
+Se ejecuto correctamente Reporte_Legales_Out
+===============================
+===============================
+19/02/2018----13.11
+Se ejecuto correctamente Reporte_Legales_In
+===============================
+===============================
+19/02/2018----13.11
+Se ejecuto correctamente Reporte_Legales_Out
+===============================
+===============================
+19/02/2018----13.13
+Se ejecuto correctamente Reporte_Legales_In
+===============================
+===============================
+19/02/2018----13.13
+Se ejecuto correctamente Reporte_Legales_Out
+===============================
+===============================
+19/02/2018----13.14
+Se ejecuto correctamente Reporte_Legales_In
+===============================
+===============================
+19/02/2018----13.14
+Se ejecuto correctamente Reporte_Legales_Out
+===============================
+===============================
+19/02/2018----13.16
+Se ejecuto correctamente Reporte_Legales_In
+===============================
+===============================
+19/02/2018----13.16
+Se ejecuto correctamente Reporte_Legales_Out
+===============================
+===============================
+19/02/2018----14.18
+Se ejecuto correctamente Reporte_Legales_In
+===============================
+===============================
+19/02/2018----14.18
+Se ejecuto correctamente Reporte_Legales_Out
+===============================
+===============================
+19/02/2018----14.41
+Se ejecuto correctamente Reporte_Legales_In
+===============================
+===============================
+19/02/2018----14.41
+Se ejecuto correctamente Reporte_Legales_Out
+===============================
+===============================
+19/02/2018----14.45
+Se ejecuto correctamente Reporte_Legales_In
+===============================
+===============================
+19/02/2018----14.45
+Se ejecuto correctamente Reporte_Legales_Out
+===============================
+===============================
+19/02/2018----15.10
+Hubo un error al ejecutar Reporte_Legales_In
+===============================
+===============================
+19/02/2018----15.10
+Hubo un error al ejecutar Reporte_Legales_Out
+===============================
+===============================
+19/02/2018----15.10
+Se ejecuto correctamente Reporte_Legales_In
+===============================
+===============================
+19/02/2018----15.10
+Se ejecuto correctamente Reporte_Legales_Out
+===============================
+===============================
+19/02/2018----15.12
+Se ejecuto correctamente Reporte_Legales_In
+===============================
+===============================
+19/02/2018----15.12
+Se ejecuto correctamente Reporte_Legales_Out
+===============================
+===============================
+19/02/2018----15.15
+Se ejecuto correctamente Reporte_Legales_In
+===============================
+===============================
+19/02/2018----15.15
+Se ejecuto correctamente Reporte_Legales_Out
+===============================
+===============================
+19/02/2018----15.19
+Se ejecuto correctamente Reporte_Legales_In
+===============================
+===============================
+19/02/2018----15.19
+Se ejecuto correctamente Reporte_Legales_Out
+===============================
+===============================
+19/02/2018----15.23
+Se ejecuto correctamente Reporte_Legales_In
+===============================
+===============================
+19/02/2018----15.23
+Se ejecuto correctamente Reporte_Legales_Out
+===============================
+===============================
+20/02/2018----11.24
+Hubo un error al ejecutar Reporte_Legales_In
+===============================
+===============================
+20/02/2018----11.24
+Hubo un error al ejecutar Reporte_Legales_Out
+===============================
+===============================
+21/02/2018----11.41
+Hubo un error al ejecutar Reporte_Legales_In
+===============================
+===============================
+21/02/2018----11.41
+Hubo un error al ejecutar Reporte_Legales_NotIn
+===============================
+===============================
+21/02/2018----11.43
+Hubo un error al ejecutar Reporte_Legales_In
+===============================
+===============================
+21/02/2018----11.43
+Hubo un error al ejecutar Reporte_Legales_NotIn
+===============================
+===============================
+21/02/2018----11.44
+Hubo un error al ejecutar Reporte_Legales_In
+===============================
+===============================
+21/02/2018----11.44
+Hubo un error al ejecutar Reporte_Legales_NotIn
+===============================
+===============================
+21/02/2018----11.58
+Hubo un error al ejecutar Reporte_Legales_In
+===============================
+===============================
+21/02/2018----11.58
+Hubo un error al ejecutar Reporte_Legales_NotIn
+===============================
+===============================
+21/02/2018----12.18
+Hubo un error al ejecutar Reporte_Legales_In
+===============================
+===============================
+21/02/2018----12.18
+Hubo un error al ejecutar Reporte_Legales_NotIn
+===============================
+===============================
+21/02/2018----12.20
+Se ejecuto correctamente Reporte_Legales_In
+===============================
+===============================
+21/02/2018----12.20
+Hubo un error al ejecutar Reporte_Legales_NotIn
+===============================
+===============================
+21/02/2018----13.19
+Se ejecuto correctamente Reporte_Legales_In
+===============================
+===============================
+21/02/2018----14.17
+Se ejecuto correctamente Reporte_Legales_NotIn
+===============================
+===============================
+21/02/2018----15.04
+Hubo un error al ejecutar Reporte_Legales_In
+===============================
+===============================
+21/02/2018----15.04
+Hubo un error al ejecutar Reporte_Legales_NotIn
+===============================
+===============================
+21/02/2018----16.01
+Se ejecuto correctamente Reporte_Legales_In
+===============================
+===============================
+21/02/2018----16.21
+Hubo un error al ejecutar Reporte_Legales_NotIn
+===============================
+===============================
+21/02/2018----16.21
+Hubo un error al ejecutar Reporte_Legales_In
+===============================
+===============================
+21/02/2018----16.21
+Hubo un error al ejecutar Reporte_Legales_NotIn
+===============================
+===============================
+21/02/2018----18.00
+Hubo un error al ejecutar Reporte_Legales_In
+===============================
+===============================
+21/02/2018----18.00
+Hubo un error al ejecutar Reporte_Legales_NotIn
+===============================
+===============================
+21/02/2018----18.01
+Se generará el reporte, se encontraron los archivos legales1 y legales2.
+===============================
+===============================
+21/02/2018----18.58
+Se ejecuto correctamente Reporte_Legales_In
+===============================
+===============================
+21/02/2018----19.54
+Se ejecuto correctamente Reporte_Legales_NotIn
+===============================
+===============================
+06/03/2018----09.55
+Se generará el reporte, se encontraron los archivos legales1 y legales2.
+===============================
+===============================
+06/03/2018----09.57
+Hubo un error al ejecutar Reporte_Legales_In
+===============================
+===============================
+06/03/2018----09.57
+Hubo un error al ejecutar Reporte_Legales_NotIn
+===============================
+===============================
+06/03/2018----10.03
+Se generará el reporte pero solo se encontró el archivo legales1.
+===============================
+===============================
+06/03/2018----10.57
+Hubo un error al ejecutar Reporte_Legales_In
+===============================
+===============================
+06/03/2018----10.57
+Hubo un error al ejecutar Reporte_Legales_NotIn
+===============================
+===============================
+06/03/2018----13.13
+Se generará el reporte, se encontraron los archivos legales1 y legales2.
+===============================
+===============================
+06/03/2018----13.56
+Se ejecuto correctamente Reporte_Legales_In
+===============================
+===============================
+06/03/2018----13.56
+Se ejecuto correctamente Reporte_Legales_NotIn
+===============================
+===============================
+06/03/2018----14.43
+Se generará el reporte, se encontraron los archivos legales1 y legales2.
+===============================
+===============================
+06/03/2018----14.43
+Se ejecuto correctamente Reporte_Legales_In
+===============================
+===============================
+06/03/2018----14.43
+Se ejecuto correctamente Reporte_Legales_NotIn
+===============================
+===============================
+18/03/2018----20.00
+Se generará el reporte, se encontraron los archivos legales1 y legales2.
+===============================
+===============================
+18/03/2018----21.18
+Se ejecuto correctamente Reporte_Legales_In
+===============================
+===============================
+18/03/2018----22.55
+Se ejecuto correctamente Reporte_Legales_NotIn
+===============================
+===============================
+18/04/2018----20.00
+Se generará el reporte, se encontraron los archivos legales1 y legales2.
+===============================
+===============================
+18/04/2018----21.13
+Se ejecuto correctamente Reporte_Legales_In
+===============================
+===============================
+18/04/2018----22.44
+Se ejecuto correctamente Reporte_Legales_NotIn
+===============================
+===============================
+18/05/2018----20.00
+Se generará el reporte, se encontraron los archivos legales1 y legales2.
+===============================
+===============================
+18/05/2018----21.09
+Se ejecuto correctamente Reporte_Legales_In
+===============================
+===============================
+18/05/2018----22.33
+Se ejecuto correctamente Reporte_Legales_NotIn
+===============================
+===============================
+18/06/2018----20.00
+Se generará el reporte, se encontraron los archivos legales1 y legales2.
+===============================
+===============================
+18/06/2018----21.02
+Se ejecuto correctamente Reporte_Legales_In
+===============================
+===============================
+18/06/2018----22.17
+Se ejecuto correctamente Reporte_Legales_NotIn
+===============================
+===============================
+18/07/2018----20.00
+Se generará el reporte, se encontraron los archivos legales1 y legales2.
+===============================
+===============================
+18/07/2018----20.45
+Se ejecuto correctamente Reporte_Legales_In
+===============================
+===============================
+18/07/2018----21.42
+Se ejecuto correctamente Reporte_Legales_NotIn
+===============================

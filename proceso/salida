@@ -1,0 +1,155 @@
+<html>
+<head>
+<title>Comprobante de Pago</title>
+<meta http-equiv=Content-Type content='text/html; charset=iso-8859-1'>
+<style type=text/css>
+          <!--
+		 .stilo1 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; font-style: normal; text-decoration: none}
+         .datos {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; line-height: normal; color: #000066}
+         .titulo {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13pt; font-weight: normal; color: #CC0099}
+         .tx {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; color: #003399; font-weight: normal}
+         .subt {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; color: #FFFFFF; font-weight: bold}
+         .datos {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 7pt; font-style: normal; color: #660099}
+         .dias {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; color: #CC0099; font-weight: bold}
+         .numeros {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: bold; color: #660099}
+		 .tx2 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; color: #003399; font-weight: normal}
+         .subt2 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: bold; color: #003399}
+         .subt3 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 7.5pt; font-weight: bold; color: #003399}
+         .titnovedad {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11pt; font-weight: bold; color: #FF6600}
+         .subtnovedad {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: bold; color: #003399}
+         .botones {	COLOR: #cc0099; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 7pt; FONT-WEIGHT: bold}
+
+		 -->
+         </style>
+</head>
+<body bgcolor=#FFFFFF leftmargin=0 topmargin=0 marginwidth=0 marginheight=0>
+<table width=760 border=0 height=563 cellpadding=0 cellspacing=0>
+  <tr> 
+    <td width=8>&nbsp</td>
+    <td class=titnovedad width=740 valign=top colspan=3 align=center>Comprobante para Pagar</td>
+    <td width=10>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td width=8>&nbsp</td>
+    <td class=titnovedad width=740 valign=top colspan=3>Para el Usuario</td>
+    <td width=10>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td height=292 width=8>&nbsp;</td>
+    <td height=292 width=740 valign=top> 
+      <div align=center class=titnovedad> <span class=tx><br><img src=http://desa.e-pagofacil.com/logofravega.jpg><br><img src="http://www.e-pagofacil.com/servint/images/logo2.gif" width=280 height=67></span>
+      <br>
+        Datos de la operaci&oacute;n<br>
+      </div>
+      <table width=80% border=0 height=19 align=center cellpadding=0 cellspacing=0>
+        <tr> 
+          <td colspan=2 height=20 class=titnovedad>
+            <div align=center></div>
+          </td>
+        </tr>
+        <tr> 
+          <td width=52% height=20 class=subt2 bgcolor=#FFCC66>
+            <div align=left>Site de compra: </div>
+          </td>
+          <td width=48% height=20 class=tx bgcolor=#FFCC66>
+            <div align=left>FRAVEGA</div>
+          </td>
+        </tr>
+		<tr> 
+          <td width=52% height=20 class=subt2 bgcolor=#FFFFCC>
+            <div align=left>Codigo de operaci&oacute;n: del Sitio de compra:</div>
+          </td>
+          <td width=48% height=20 class=tx bgcolor=#FFFFCC>
+            <div align=left>0811034450507002</div>
+          </td>
+        </tr>
+        <tr> 
+          <td width=52% height=20 class=subt2 bgcolor=#FFCC66>Monto de
+            operaci&oacute;n: </td>
+          <td width=48% height=20 class=tx bgcolor=#FFCC66> $3,940.40</td>
+        </tr>
+        <tr> 
+          <td width=52% height=20 class=subt2 bgcolor=#FFFFCC>Moneda:
+          </td>
+          <td width=48% height=20 class=tx bgcolor=#FFFFCC>PESOS</td>
+        </tr>
+        <tr> 
+          <td width=52% height=20 class=subt2 bgcolor=#FFCC66>Fecha de
+            la compra: </td>
+          <td width=48% height=20 class=tx bgcolor=#FFCC66>27/07/2018</td>
+        </tr>
+        <tr> 
+          <td width=52% height=20 class=subt2 bgcolor=#FFFFCC>Fecha de
+            Vencimiento:</td>
+          <td width=48% height=20 class=tx bgcolor=#FFFFCC>30/07/2018</td>
+        </tr>
+        <tr>
+          <td width=52% height=20 class=subt2 bgcolor=#FFCC66>C&oacute;digo
+            de operaci&oacute;n manual: </td>
+          <td width=48% height=20 class=tx bgcolor=#FFCC66>9046106200000811034450507002100394040182080308</td>
+        </tr>
+      </table>
+      <br>
+    </td>
+    <td height=292 width=10>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td height=2 width=8>&nbsp;</td>
+    <td height=2 width=740 valign=top> 
+      <div align=center><span class=subt3>Usted recibir&aacute; un mail a
+        la direcci&oacute;n ingresada con el detalle de esta operaci&oacute;n
+        y copia del presente comprobante<br>
+        Busque su Pago F&aacute;cil m&aacute;s cercano en e-pagofacil.com y conozca
+        nuestro nuevo servicio de agenda. <br>
+        <br>
+        <br>
+        </span> </div>
+    </td>
+    <td height=2 width=10>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td height=2 width=8>&nbsp;</td>
+    <td height=2 width=740 valign=top> 
+      <div align=center><img src=https://www.e-pagofacil.com/servint/images/puntos.gif width=714 height=28></div>
+    </td>
+    <td height=2 width=10>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td height=2 width=8>&nbsp;</td>
+    <td height=2 width=740 valign=top> 
+      <div align=left class=titnovedad>Para el Agente </div>
+    </td>
+    <td height=2 width=10>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td height=2 width=8>&nbsp;</td>
+    <td height=2 width=740 valign=top class=subtnovedad>
+      <div align=center><span class=tx><br>
+        <span class=subt2><table BORDER=1><tr><td class=subt2>FRAVEGA</td><td class=subt2>0811034450507002</td><td class=subt2>PESOS</td><td class=subt2> $3,940.40</td><td class=subt2>30/07/2018</td></tr></table><br></span>
+      	<img src=https://www.e-pagofacil.com/2130/barcode2130.php?string=9046106200000811034450507002100394040182080308&magic=100080913  width=500px height=70px>
+        </span><br><span class=subt2>9046106200000811034450507002100394040182080308<span><br><br>
+        <span class=subt><span class=subt2>Por favor, imprima esta pagina
+        y dir&iacute;jase al Pago F&aacute;cil m&aacute;s cercano para
+        efectivizar su compra.</span><br>
+        </span><br>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td height=2 width=8>&nbsp;</td>
+    <td height=2 width=740 valign=top class=subtnovedad align=center>
+      <div align=right> 
+        <table width=150 border=0 cellspacing=0 cellpadding=2 align=center>
+          <tr> 
+            <td><a href=javascript:self.print(); class=botones><img src=https://www.e-pagofacil.com/servint/images/flecha2.gif width=20 height=20 border=0 align=absmiddle></a></td>
+            <td><a href=javascript:self.print(); class=botones>Imprimir</a></td>
+            <td><a href=javascript:self.close(); class=botones><img src=https://www.e-pagofacil.com/servint/images/flecha2.gif width=20 height=20 border=0 align=absmiddle></a></td>
+            <td><a href=javascript:self.close(); class=botones>Cerrar</a></td>
+          </tr>
+        </table>
+        <a href=# class=botones></a> </div>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

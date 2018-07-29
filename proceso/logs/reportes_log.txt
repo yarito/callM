@@ -1,0 +1,2100 @@
+===============================
+#21/12/2017----17:20
+Se ejecuto correctamente Prueba
+===============================
+===============================
+#21/12/2017----17:24
+Se ejecuto correctamente Prueba
+===============================
+===============================
+#21/12/2017----17:24
+Se ejecuto correctamente Prueba
+===============================
+===============================
+#22/12/2017----12:50
+Hubo un error al ejecutar reporteDiarioEvolutivoPorUsuario
+===============================
+===============================
+#22/12/2017----12:51
+Hubo un error al ejecutar reporteDiarioEvolutivoPorGrupo
+===============================
+===============================
+#22/12/2017----12:52
+Hubo un error al ejecutar reporteDiarioEvolutivoPorUsuario
+===============================
+===============================
+#22/12/2017----12:57
+Hubo un error al ejecutar reporteDiarioEvolutivoPorGrupo
+===============================
+===============================
+#22/12/2017----12:57
+Hubo un error al ejecutar reporteDiarioEvolutivoPorUsuario
+===============================
+===============================
+#22/12/2017----12:58
+Hubo un error al ejecutar reporteDiarioEvolutivoPorGrupo
+===============================
+===============================
+#22/12/2017----12:59
+Hubo un error al ejecutar reporteDiarioEvolutivoPorGrupo
+===============================
+===============================
+#22/12/2017----12:59
+Hubo un error al ejecutar reporteDiarioEvolutivoPorUsuario
+===============================
+===============================
+#22/12/2017----12:59
+Se ejecuto correctamente reporteDiarioEvolutivoPorGrupo
+===============================
+===============================
+#22/12/2017----12:59
+Se ejecuto correctamente reporteDiarioEvolutivoPorUsuario
+===============================
+===============================
+#22/12/2017----13:03
+Hubo un error al ejecutar reporteDiarioEvolutivoPorGrupo
+===============================
+===============================
+#22/12/2017----13:03
+Hubo un error al ejecutar reporteDiarioEvolutivoPorUsuario
+===============================
+===============================
+#22/12/2017----13:04
+Se ejecuto correctamente reporteDiarioEvolutivoPorGrupo
+===============================
+===============================
+#22/12/2017----13:04
+Se ejecuto correctamente reporteDiarioEvolutivoPorUsuario
+===============================
+===============================
+#22/12/2017----15:42
+Se ejecuto correctamente reporteDiarioEvolutivoPorGrupo
+===============================
+===============================
+#22/12/2017----15:42
+Se ejecuto correctamente reporteDiarioEvolutivoPorUsuario
+===============================
+===============================
+#22/12/2017----15:43
+Se ejecuto correctamente reporteDiarioEvolutivoPorGrupo
+===============================
+===============================
+#22/12/2017----15:43
+Se ejecuto correctamente reporteDiarioEvolutivoPorUsuario
+===============================
+===============================
+#22/12/2017----15:45
+Se ejecuto correctamente reporteDiarioEvolutivoPorGrupo
+===============================
+===============================
+#22/12/2017----15:45
+Se ejecuto correctamente reporteDiarioEvolutivoPorUsuario
+===============================
+===============================
+#22/12/2017----16:06
+Se ejecuto correctamente reporteDiarioEvolutivoPorGrupo
+===============================
+===============================
+#22/12/2017----16:06
+Se ejecuto correctamente reporteDiarioEvolutivoPorUsuario
+===============================
+===============================
+#22/12/2017----16:09
+Se ejecuto correctamente reporteDiarioEvolutivoPorGrupo
+===============================
+===============================
+#22/12/2017----16:09
+Se ejecuto correctamente reporteDiarioEvolutivoPorUsuario
+===============================
+===============================
+#22/12/2017----17:11
+Se ejecuto correctamente reporteDiarioEvolutivoPorGrupo
+===============================
+===============================
+#22/12/2017----17:11
+Se ejecuto correctamente reporteDiarioEvolutivoPorUsuario
+===============================
+===============================
+#22/12/2017----17:22
+Se ejecuto correctamente reporteDiarioEvolutivoPorGrupo
+===============================
+===============================
+#22/12/2017----17:22
+Se ejecuto correctamente reporteDiarioEvolutivoPorUsuario
+===============================
+===============================
+#22/12/2017----17:24
+Se ejecuto correctamente reporteDiarioEvolutivoPorGrupo
+===============================
+===============================
+#22/12/2017----17:25
+Se ejecuto correctamente reporteDiarioEvolutivoPorUsuario
+===============================
+===============================
+#22/12/2017----18:08
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+#22/12/2017----18:08
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+#22/12/2017----18:11
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+#22/12/2017----18:12
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+#22/12/2017----18:35
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+#22/12/2017----18:35
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+#26/12/2017----11:12
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+#26/12/2017----11:12
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+#26/12/2017----11:16
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+#26/12/2017----11:16
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+#26/12/2017----12:03
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+#26/12/2017----12:03
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+#27/12/2017----10:07
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+#27/12/2017----10:07
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+#27/12/2017----13:21
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+#27/12/2017----13:21
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+#27/12/2017----13:22
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+#27/12/2017----13:22
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+#27/12/2017----13:26
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+#27/12/2017----13:26
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+#27/12/2017----13:30
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+#27/12/2017----13:30
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+#27/12/2017----13:32
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+#27/12/2017----13:32
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+#27/12/2017----15:25
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+#27/12/2017----15:25
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+#27/12/2017----15:32
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+#27/12/2017----15:32
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+#27/12/2017----15.55
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+#27/12/2017----15.55
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+#27/12/2017----15.55
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+#27/12/2017----15.55
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+#27/12/2017----15.57
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+#27/12/2017----15.57
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+27/12/2017----15.59
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+27/12/2017----15.59
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+27/12/2017----16.00
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+27/12/2017----16.00
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+27/12/2017----16.09
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+27/12/2017----16.09
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+27/12/2017----16.10
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+27/12/2017----16.10
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+28/12/2017----15.23
+Se ejecuto correctamente Reporte_Cierre_Por_Usuario
+===============================
+===============================
+28/12/2017----15.23
+Se ejecuto correctamente Reporte_Cierre_Por_Grupo
+===============================
+===============================
+28/12/2017----15.23
+Se ejecuto correctamente Reporte_Cierre_Por_Sucursal
+===============================
+===============================
+28/12/2017----15.29
+Se ejecuto correctamente Reporte_Cierre_Por_Usuario
+===============================
+===============================
+28/12/2017----15.29
+Se ejecuto correctamente Reporte_Cierre_Por_Grupo
+===============================
+===============================
+28/12/2017----15.29
+Se ejecuto correctamente Reporte_Cierre_Por_Sucursal
+===============================
+===============================
+02/01/2018----15.24
+Se ejecuto correctamente Reporte_de_Inicio
+===============================
+===============================
+03/01/2018----10.37
+Se ejecuto correctamente Reporte_Cierre_Por_Usuario
+===============================
+===============================
+03/01/2018----10.37
+Se ejecuto correctamente Reporte_Cierre_Por_Grupo
+===============================
+===============================
+03/01/2018----10.37
+Se ejecuto correctamente Reporte_Cierre_Por_Sucursal
+===============================
+===============================
+03/01/2018----10.39
+Se ejecuto correctamente Reporte_Cierre_Por_Usuario
+===============================
+===============================
+03/01/2018----10.39
+Se ejecuto correctamente Reporte_Cierre_Por_Grupo
+===============================
+===============================
+03/01/2018----10.39
+Se ejecuto correctamente Reporte_Cierre_Por_Sucursal
+===============================
+===============================
+03/01/2018----10.39
+Se ejecuto correctamente Reporte_Cierre_Por_Usuario
+===============================
+===============================
+03/01/2018----10.39
+Se ejecuto correctamente Reporte_Cierre_Por_Grupo
+===============================
+===============================
+03/01/2018----10.39
+Se ejecuto correctamente Reporte_Cierre_Por_Sucursal
+===============================
+===============================
+03/01/2018----10.43
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+03/01/2018----10.43
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+05/01/2018----05.48
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+05/01/2018----05.48
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+06/01/2018----05.52
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+06/01/2018----05.52
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+07/01/2018----05.51
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+07/01/2018----05.51
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+08/01/2018----05.53
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+08/01/2018----05.53
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+09/01/2018----05.46
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+09/01/2018----05.46
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+10/01/2018----05.47
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+10/01/2018----05.47
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+11/01/2018----05.10
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+11/01/2018----05.10
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+11/01/2018----09.42
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+11/01/2018----09.42
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+12/01/2018----05.45
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+12/01/2018----05.45
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+13/01/2018----05.45
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+13/01/2018----05.45
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+14/01/2018----05.45
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+14/01/2018----05.45
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+15/01/2018----05.47
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+15/01/2018----05.47
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+16/01/2018----05.43
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+16/01/2018----05.43
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+17/01/2018----05.42
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+17/01/2018----05.42
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+18/01/2018----05.42
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+18/01/2018----05.42
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+19/01/2018----05.41
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+19/01/2018----05.41
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+20/01/2018----05.43
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+20/01/2018----05.43
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+21/01/2018----05.40
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+21/01/2018----05.40
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+22/01/2018----05.48
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+22/01/2018----05.48
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+23/01/2018----05.40
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+23/01/2018----05.40
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+24/01/2018----05.40
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+24/01/2018----05.40
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+25/01/2018----05.40
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+25/01/2018----05.40
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+26/01/2018----05.42
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+26/01/2018----05.42
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+27/01/2018----05.42
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+27/01/2018----05.42
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+28/01/2018----05.41
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+28/01/2018----05.41
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+29/01/2018----05.48
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+29/01/2018----05.48
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+30/01/2018----06.07
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+30/01/2018----06.07
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+30/01/2018----08.00
+Se ejecuto correctamente Reporte_Cierre_Por_Usuario
+===============================
+===============================
+30/01/2018----08.00
+Se ejecuto correctamente Reporte_Cierre_Por_Grupo
+===============================
+===============================
+30/01/2018----08.00
+Se ejecuto correctamente Reporte_Cierre_Por_Sucursal
+===============================
+===============================
+31/01/2018----06.07
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+31/01/2018----06.07
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+31/01/2018----06.07
+Se ejecuto correctamente Reporte_de_Inicio
+===============================
+===============================
+01/02/2018----06.06
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+01/02/2018----06.06
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+02/02/2018----06.06
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+02/02/2018----06.06
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+03/02/2018----05.58
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+03/02/2018----05.58
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+04/02/2018----06.01
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+04/02/2018----06.01
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+05/02/2018----06.01
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+05/02/2018----06.01
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+06/02/2018----06.00
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+06/02/2018----06.00
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+07/02/2018----05.53
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+07/02/2018----05.53
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+08/02/2018----05.55
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+08/02/2018----05.55
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+09/02/2018----05.56
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+09/02/2018----05.56
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+10/02/2018----05.54
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+10/02/2018----05.54
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+11/02/2018----05.55
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+11/02/2018----05.55
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+12/02/2018----05.56
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+12/02/2018----05.56
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+13/02/2018----05.56
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+13/02/2018----05.56
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+14/02/2018----05.54
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+14/02/2018----05.54
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+15/02/2018----05.50
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+15/02/2018----05.50
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+16/02/2018----05.49
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+16/02/2018----05.49
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+17/02/2018----05.48
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+17/02/2018----05.48
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+18/02/2018----05.47
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+18/02/2018----05.47
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+19/02/2018----05.49
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+19/02/2018----05.49
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+21/02/2018----05.52
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+21/02/2018----05.52
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+22/02/2018----05.51
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+22/02/2018----05.51
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+23/02/2018----05.45
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+23/02/2018----05.45
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+24/02/2018----05.45
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+24/02/2018----05.45
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+25/02/2018----05.42
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+25/02/2018----05.42
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+26/02/2018----05.46
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+26/02/2018----05.46
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+27/02/2018----06.23
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+27/02/2018----06.23
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+27/02/2018----07.11
+Se ejecuto correctamente Reporte_Cierre_Por_Usuario
+===============================
+===============================
+27/02/2018----07.11
+Se ejecuto correctamente Reporte_Cierre_Por_Grupo
+===============================
+===============================
+27/02/2018----07.11
+Se ejecuto correctamente Reporte_Cierre_Por_Sucursal
+===============================
+===============================
+28/02/2018----06.22
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+28/02/2018----06.22
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+28/02/2018----06.22
+Se ejecuto correctamente Reporte_de_Inicio
+===============================
+===============================
+01/03/2018----06.25
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+01/03/2018----06.25
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+02/03/2018----06.28
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+02/03/2018----06.28
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+03/03/2018----06.23
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+03/03/2018----06.23
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+04/03/2018----06.21
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+04/03/2018----06.21
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+05/03/2018----06.19
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+05/03/2018----06.19
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+06/03/2018----06.13
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+06/03/2018----06.13
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+07/03/2018----06.02
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+07/03/2018----06.02
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+08/03/2018----06.05
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+08/03/2018----06.05
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+09/03/2018----05.58
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+09/03/2018----05.58
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+10/03/2018----06.01
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+10/03/2018----06.01
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+11/03/2018----05.59
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+11/03/2018----05.59
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+12/03/2018----06.02
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+12/03/2018----06.02
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+13/03/2018----05.55
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+13/03/2018----05.55
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+14/03/2018----05.57
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+14/03/2018----05.57
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+15/03/2018----06.02
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+15/03/2018----06.02
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+16/03/2018----05.57
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+16/03/2018----05.57
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+17/03/2018----06.01
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+17/03/2018----06.01
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+18/03/2018----05.57
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+18/03/2018----05.57
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+19/03/2018----05.59
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+19/03/2018----05.59
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+20/03/2018----05.51
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+20/03/2018----05.51
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+21/03/2018----05.49
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+21/03/2018----05.49
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+22/03/2018----05.51
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+22/03/2018----05.51
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+23/03/2018----05.48
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+23/03/2018----05.48
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+24/03/2018----05.49
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+24/03/2018----05.49
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+25/03/2018----05.52
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+25/03/2018----05.52
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+26/03/2018----05.53
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+26/03/2018----05.53
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+27/03/2018----05.56
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+27/03/2018----05.56
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+28/03/2018----06.21
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+28/03/2018----06.21
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+29/03/2018----06.32
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+29/03/2018----06.32
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+29/03/2018----06.33
+Se ejecuto correctamente Reporte_de_Inicio
+===============================
+===============================
+30/03/2018----06.17
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+30/03/2018----06.17
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+31/03/2018----06.38
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+31/03/2018----06.38
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+01/04/2018----06.23
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+01/04/2018----06.23
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+02/04/2018----06.27
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+02/04/2018----06.27
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+03/04/2018----06.27
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+03/04/2018----06.27
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+04/04/2018----06.19
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+04/04/2018----06.19
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+05/04/2018----06.07
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+05/04/2018----06.07
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+06/04/2018----06.07
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+06/04/2018----06.07
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+07/04/2018----06.08
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+07/04/2018----06.08
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+08/04/2018----06.05
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+08/04/2018----06.05
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+09/04/2018----06.08
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+09/04/2018----06.08
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+10/04/2018----06.00
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+10/04/2018----06.00
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+11/04/2018----05.58
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+11/04/2018----05.58
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+12/04/2018----06.00
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+12/04/2018----06.00
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+13/04/2018----05.57
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+13/04/2018----05.57
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+14/04/2018----06.00
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+14/04/2018----06.00
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+15/04/2018----05.56
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+15/04/2018----05.56
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+16/04/2018----06.00
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+16/04/2018----06.00
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+17/04/2018----05.53
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+17/04/2018----05.53
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+18/04/2018----05.53
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+18/04/2018----05.53
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+19/04/2018----06.01
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+19/04/2018----06.01
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+20/04/2018----05.57
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+20/04/2018----05.57
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+21/04/2018----05.59
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+21/04/2018----05.59
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+22/04/2018----05.52
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+22/04/2018----05.52
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+23/04/2018----05.55
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+23/04/2018----05.55
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+25/04/2018----06.24
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+25/04/2018----06.24
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+26/04/2018----05.50
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+26/04/2018----05.50
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+27/04/2018----06.30
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+27/04/2018----06.30
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+27/04/2018----08.54
+Se ejecuto correctamente Reporte_Cierre_Por_Usuario
+===============================
+===============================
+27/04/2018----08.54
+Se ejecuto correctamente Reporte_Cierre_Por_Grupo
+===============================
+===============================
+27/04/2018----08.54
+Se ejecuto correctamente Reporte_Cierre_Por_Sucursal
+===============================
+===============================
+28/04/2018----06.33
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+28/04/2018----06.33
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+28/04/2018----09.15
+Se ejecuto correctamente Reporte_Cierre_Por_Usuario
+===============================
+===============================
+28/04/2018----09.15
+Se ejecuto correctamente Reporte_Cierre_Por_Grupo
+===============================
+===============================
+28/04/2018----09.15
+Se ejecuto correctamente Reporte_Cierre_Por_Sucursal
+===============================
+===============================
+29/04/2018----06.26
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+29/04/2018----06.26
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+29/04/2018----06.26
+Se ejecuto correctamente Reporte_de_Inicio
+===============================
+===============================
+30/04/2018----06.33
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+30/04/2018----06.33
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+01/05/2018----06.24
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+01/05/2018----06.24
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+03/05/2018----06.18
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+03/05/2018----06.18
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+04/05/2018----06.22
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+04/05/2018----06.22
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+05/05/2018----06.18
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+05/05/2018----06.18
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+06/05/2018----06.18
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+06/05/2018----06.18
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+07/05/2018----06.23
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+07/05/2018----06.24
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+08/05/2018----06.23
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+08/05/2018----06.23
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+09/05/2018----06.16
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+09/05/2018----06.16
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+10/05/2018----06.21
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+10/05/2018----06.21
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+11/05/2018----06.09
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+11/05/2018----06.09
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+12/05/2018----06.18
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+12/05/2018----06.18
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+13/05/2018----06.18
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+13/05/2018----06.18
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+14/05/2018----06.28
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+14/05/2018----06.28
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+15/05/2018----06.17
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+15/05/2018----06.17
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+16/05/2018----06.02
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+16/05/2018----06.02
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+17/05/2018----06.03
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+17/05/2018----06.03
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+18/05/2018----05.59
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+18/05/2018----05.59
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+19/05/2018----06.09
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+19/05/2018----06.09
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+20/05/2018----05.59
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+20/05/2018----05.59
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+21/05/2018----06.07
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+21/05/2018----06.07
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+22/05/2018----06.02
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+22/05/2018----06.02
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+23/05/2018----05.59
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+23/05/2018----05.59
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+24/05/2018----06.01
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+24/05/2018----06.01
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+25/05/2018----05.44
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+25/05/2018----05.44
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+26/05/2018----05.54
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+26/05/2018----05.54
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+27/05/2018----06.27
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+27/05/2018----06.27
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+28/05/2018----05.50
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+28/05/2018----05.50
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+29/05/2018----05.35
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+29/05/2018----05.35
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+30/05/2018----05.44
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+30/05/2018----05.44
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+30/05/2018----07.34
+Se ejecuto correctamente Reporte_Cierre_Por_Usuario
+===============================
+===============================
+30/05/2018----07.34
+Se ejecuto correctamente Reporte_Cierre_Por_Grupo
+===============================
+===============================
+30/05/2018----07.34
+Se ejecuto correctamente Reporte_Cierre_Por_Sucursal
+===============================
+===============================
+31/05/2018----05.29
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+31/05/2018----05.29
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+31/05/2018----05.29
+Se ejecuto correctamente Reporte_de_Inicio
+===============================
+===============================
+01/06/2018----05.30
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+01/06/2018----05.30
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+02/06/2018----05.34
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+02/06/2018----05.34
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+03/06/2018----05.51
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+03/06/2018----05.51
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+04/06/2018----05.59
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+04/06/2018----05.59
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+05/06/2018----05.29
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+05/06/2018----05.29
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+06/06/2018----05.25
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+06/06/2018----05.25
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+07/06/2018----05.30
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+07/06/2018----05.30
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+08/06/2018----05.32
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+08/06/2018----05.32
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+09/06/2018----05.39
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+09/06/2018----05.39
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+10/06/2018----05.54
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+10/06/2018----05.54
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+11/06/2018----05.49
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+11/06/2018----05.49
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+12/06/2018----05.39
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+12/06/2018----05.39
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+13/06/2018----05.35
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+13/06/2018----05.35
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+14/06/2018----05.38
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+14/06/2018----05.38
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+15/06/2018----05.31
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+15/06/2018----05.31
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+16/06/2018----05.37
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+16/06/2018----05.37
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+17/06/2018----05.45
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+17/06/2018----05.45
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+18/06/2018----05.47
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+18/06/2018----05.47
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+19/06/2018----05.35
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+19/06/2018----05.35
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+20/06/2018----05.34
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+20/06/2018----05.34
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+21/06/2018----05.50
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+21/06/2018----05.50
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+22/06/2018----05.34
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+22/06/2018----05.34
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+23/06/2018----05.34
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+23/06/2018----05.34
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+24/06/2018----05.41
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+24/06/2018----05.41
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+25/06/2018----05.45
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+25/06/2018----05.45
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+26/06/2018----05.39
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+26/06/2018----05.39
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+27/06/2018----05.31
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+27/06/2018----05.31
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+28/06/2018----05.31
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+28/06/2018----05.31
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+29/06/2018----05.44
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+29/06/2018----05.44
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+29/06/2018----10.38
+Se ejecuto correctamente Reporte_Cierre_Por_Usuario
+===============================
+===============================
+29/06/2018----10.38
+Se ejecuto correctamente Reporte_Cierre_Por_Grupo
+===============================
+===============================
+29/06/2018----10.38
+Se ejecuto correctamente Reporte_Cierre_Por_Sucursal
+===============================
+===============================
+30/06/2018----05.24
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+30/06/2018----05.24
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+30/06/2018----05.24
+Se ejecuto correctamente Reporte_de_Inicio
+===============================
+===============================
+01/07/2018----05.37
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+01/07/2018----05.37
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+02/07/2018----05.38
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+02/07/2018----05.38
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+03/07/2018----05.27
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+03/07/2018----05.27
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+04/07/2018----05.26
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+04/07/2018----05.26
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+05/07/2018----05.35
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+05/07/2018----05.35
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+06/07/2018----05.36
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+06/07/2018----05.36
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+07/07/2018----05.33
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+07/07/2018----05.33
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+08/07/2018----05.37
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+08/07/2018----05.37
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+09/07/2018----05.39
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+09/07/2018----05.39
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+10/07/2018----05.38
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+10/07/2018----05.38
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+11/07/2018----05.26
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+11/07/2018----05.26
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+12/07/2018----05.21
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+12/07/2018----05.21
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+13/07/2018----05.27
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+13/07/2018----05.27
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+14/07/2018----05.26
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+14/07/2018----05.26
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+15/07/2018----05.31
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+15/07/2018----05.31
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+16/07/2018----05.33
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+16/07/2018----05.33
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+17/07/2018----05.23
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+17/07/2018----05.23
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+18/07/2018----05.28
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+18/07/2018----05.28
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+19/07/2018----05.28
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+19/07/2018----05.28
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+20/07/2018----05.30
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+20/07/2018----05.30
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+21/07/2018----05.31
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+21/07/2018----05.31
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+22/07/2018----05.31
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+22/07/2018----05.31
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+23/07/2018----05.30
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+23/07/2018----05.30
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+24/07/2018----05.25
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+24/07/2018----05.25
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+25/07/2018----05.24
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+25/07/2018----05.24
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+26/07/2018----05.21
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+26/07/2018----05.21
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+27/07/2018----05.25
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+27/07/2018----05.25
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+28/07/2018----05.25
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+28/07/2018----05.25
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================
+===============================
+29/07/2018----05.26
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Grupo
+===============================
+===============================
+29/07/2018----05.26
+Se ejecuto correctamente reporte_Diario_Evolutivo_Por_Usuario
+===============================

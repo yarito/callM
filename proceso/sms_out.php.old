@@ -1,0 +1,95 @@
+<?
+date_default_timezone_set ('America/Argentina/Buenos_Aires');
+
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+/******** CUSTOM DATA ********/
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+// local path
+$PATH = "/home/callcenter/interfaz/sms/out/";
+$SENTPATH = "/home/callcenter/interfaz/sms/out/sent/";
+// log
+$LOG = "/home/callcenter/interfaz/sms/log/out.log";
+/*<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
+/******** CUSTOM DATA ********/
+/*<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
+
+
+// include
+include("/home/callcenter/htdocs/conndb/conndb.php");
+set_include_path(get_include_path() . PATH_SEPARATOR . '/home/callcenter/htdocs/phplib/phpseclib/');
+include('Net/SFTP.php');
+// date
+$DATE = date("Ymd",time());
+
+// files
+$FILE['SMS'] = "sms_".$DATE.".txt";
+
+
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+/************ LOG ************/
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+function savelog($msg) {
+  global $LOG;
+  if ($handle = fopen($LOG, "a"))  {
+    @fwrite($handle, date("Y-m-d H:i:s")." - $msg\r\n" );
+    @fclose($handle);
+  }
+}
+function errorlog($type, $info, $file, $row) {
+  global $LOG;
+  if ($handle = fopen($LOG, "a"))  {
+    @fwrite($handle, date("Y-m-d H:i:s")." - ERR --> $type: $info FILE: $file -  Row $row\r\n" );
+    @fclose($handle);
+  }
+}
+set_error_handler(errorlog, E_USER_ERROR);
+/*<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
+/************ LOG ************/
+/*<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
+ 
+
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+/************ SMS ************/
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+// open file
+$fp = fopen($PATH.$FILE[SMS], "w");
+// get query
+$SQL = "SELECT 
+       ca.IDCARTERA IDCARTERA,
+       ca.IDMOROSO IDMOROSO,
+	LPAD(IFNULL(ca.SUCURSAL,''),3,'0') SUCURSAL,
+	LPAD(IFNULL(ca.NUMCREDITO,''),7,'0') NUMCREDITO,
+       (SELECT CONCAT(CODIGOAREA,NUMERO)
+	   FROM TELEFONOS t
+	  WHERE ca.IDMOROSO=t.IDCONTACTO
+	    AND ESTADO=1
+	  ORDER BY FECHAALTA DESC
+	  LIMIT  1) TELEFONO,
+         DATE_FORMAT(DATE_ADD(ca.FECHA, INTERVAL CASE WHEN ca.TIPOCREDITO IN ('BI','BY') THEN ca.ULTIMACUOTA*2 ELSE ca.ULTIMACUOTA END MONTH),'%d/%m/%y') FECVEN
+  FROM CARTERA ca
+ WHERE ca.TIPOPROCESO='1AT' 
+   AND ca.FECHAPROCESO = (SELECT MAX(FECHAPROCESO) FROM CARTERA) 
+   AND ca.ESTADO NOT IN (3,5,10,14)
+   AND ca.ULTIMACUOTA=0";
+$result = mysql_query($SQL, $conn);
+while($rs = mysql_fetch_array($result)) {
+  // clear line buffer
+  $buffer = "";
+  $buffer.= $rs['IDCARTERA'].";";
+  $buffer.= $rs['IDMOROSO'].";";
+  $buffer.= $rs['SUCURSAL'].";";
+  $buffer.= $rs['NUMCREDITO'].";";
+  $buffer.= $rs['TELEFONO'].";";
+  $buffer.= "Desde FRAVEGA te recordamos que debes abonar tu credito ".$rs['SUCURSAL'].$rs['NUMCREDITO']." con vencimiento ".$rs['FECVEN'].". Si ya abonaste descarta este mensaje. Gracias por confiar.";
+  $buffer.= "\n";
+  // write line buffer to file
+  fwrite($fp, $buffer);
+}
+// close file
+fclose($fp);
+/*<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
+/************ SMS ************/
+/*<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
+
+
+?>
